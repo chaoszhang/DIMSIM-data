@@ -1,0 +1,3 @@
+for n in 50 100; do for i in $(seq 1 50); do for j in dnapars_consensus dnapars_greedy igphyml igphyml_star immunitree raxml raxml_star mst beast beast_star truth; do echo $i $n $j `python3 ../metric/treestats.py $i/$n/$j`; done done done | tee property
+for n in 200; do for i in $(seq 1 50); do for j in igphyml igphyml_star immunitree raxml raxml_star mst beast beast_star truth; do echo $i $n $j `python3 ../metric/treestats.py $i/$n/$j`; done done done | tee -a property
+for n in 500; do for i in $(seq 1 50); do for j in igphyml igphyml_star immunitree raxml raxml_star mst truth; do echo $i $n $j `python3 ../metric/treestats.py $i/$n/$j`; done done done | tee -a property
