@@ -37,11 +37,17 @@ Shell scripts to run reconstruction methods.
 Reconstructed trees in raw format
 
 dnapars: `RAxML_MajorityRuleExtendedConsensusTree.dnapars_greedy` and `RAxML_MajorityRuleConsensusTree.dnapars_consensus`
+
 beast: `beast.nexus`
+
 raxml: `RAxML_bestTree.raxml-with-root`
+
 igphyml: `seq_with_root.fasta_igphyml_tree_igphyml.txt`
+
 gctree: `gctree.nw`
+
 immunitree: `immunitree.txt`
+
 mst: `mst.result`
 
 # Flu experiments
