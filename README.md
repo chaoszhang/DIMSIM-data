@@ -79,6 +79,10 @@ Evaluation metrics and scripts to help formating trees to the format above
 
 Figures in the paper along with scripts and data to reproduce those figures
 
+## Simulated sequences
+
+See [here](https://drive.google.com/file/d/1AAAZlkDao5sYg89X2lxeFaxwiFJax4mr/view?usp=sharing).
+
 # Flu experiments
 
 ## stat/*
