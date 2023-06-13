@@ -81,7 +81,7 @@ Figures in the paper along with scripts and data to reproduce those figures
 
 ## Simulated sequences
 
-See [here](https://drive.google.com/file/d/1AAAZlkDao5sYg89X2lxeFaxwiFJax4mr/view?usp=sharing).
+See [here](https://datadryad.org/stash/dataset/doi:10.6076/D1530H).
 
 # Flu experiments
 
@@ -91,4 +91,4 @@ Figures in the paper along with scripts and data to reproduce those figures
 
 ## other data
 
-Full data files for Flu simulations are available at https://drive.google.com/file/d/1NQo4lggUeCvmlA1PTox-j_fqutL1F22L/view?usp=sharing.
+Full data files for Flu simulations are available at [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1530H).
